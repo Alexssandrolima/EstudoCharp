@@ -1,0 +1,7 @@
+.\SQLEXPRESS
+master
+
+root
+sunshine
+
+Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\DADOS.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True
